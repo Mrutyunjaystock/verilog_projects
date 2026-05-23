@@ -66,3 +66,6 @@ Through this project, I learned:
 - Status flag generation
 - Verilog coding and simulation
 - Testbench development and waveform analysis
+
+## Waveform
+![Waveform](waveform.png)
