@@ -68,4 +68,4 @@ Through this project, I learned:
 - Testbench development and waveform analysis
 
 ## Waveform
-![Waveform](waveform.png)
+![Waveform](fifo_waveform.png)
